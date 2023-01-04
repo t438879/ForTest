@@ -431,9 +431,10 @@ join-io@~1.4.0:
     minify "^2.0.0"
     ponse "^1.4.1"
 
-jquery@3.0.0-alpha1:
-  version "3.0.0-alpha1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.0.0-alpha1.tgz#3493d672266e21c2dffb2714f935448edebe3c62"
+jquery@3.6.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.2.tgz#8302bbc9160646f507bdf59d136a478b312783c4"
+  integrity sha512-/e7ulNIEEYk1Z/l4X0vpxGt+B/dNsV8ghOPAWZaJs8pkGvsSC0tm33aMGylXcj/U7y4IcvwtMXPMyBFZn/gK9A==
 
 json3@3.2.6:
   version "3.2.6"
